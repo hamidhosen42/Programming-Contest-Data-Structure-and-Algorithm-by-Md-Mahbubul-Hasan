@@ -43,3 +43,14 @@ for(int i=1;i<=n;i++){
     }
     cout<<sum<<endl;
 }
+
+
+//Again
+    int n,sum=0;
+    cin>>n;
+
+    for(int i=1;i<=n;i++){
+        cout<<"Sum of "<<i<<":";
+        sum+=(i*(i+1))/2;
+        cout<<sum<<endl;
+    }
