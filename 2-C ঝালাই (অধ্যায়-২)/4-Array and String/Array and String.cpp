@@ -42,3 +42,14 @@ int main()
     }
     return 0;
 }
+/*
+Small letter to capital letter :
+    ch=ch-'a'+'A'
+
+char to integar:
+
+    d=ch-'0'
+
+Initialize all value zero:
+    memset(a,0,sizeof(a));
+*/
